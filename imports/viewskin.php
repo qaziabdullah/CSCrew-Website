@@ -72,6 +72,13 @@ if($type == 'gloves') {
             break;
         }
     }
+}else if($type == 'custom_mvp') {
+    foreach($custom_songs as $key=>$mvp) {
+        if($mvp->id == $selectedpaint) {
+            $current = $mvp;
+            break;
+        }
+    }
 }else {
     foreach($full_skins as $key=>$skin) {
         if($skin->weapon_name == Path(1)
@@ -189,6 +196,18 @@ switch($type) {
                 $weapon['ct'] = true;
             }
         }
+        break;
+    case 'custom_mvp':
+        $weapon = [
+            'name' => $current->name,
+            'index' => $current->id
+        ];
+
+        $query = $pdo->prepare("SELECT * FROM `PersonData` WHERE `PlayerSteamID` = ? AND `MusicKit` = ?");
+        $query->execute([$_SESSION['steamid'], 'MVP_'.$current->id]);
+
+        $weapon['t'] = $query->rowCount() > 0;
+        $weapon['ct'] = false;
         break;
     default:
         $weapon = [
@@ -379,7 +398,7 @@ if($stickers_loop) {
             </div>
         </div>
         <?php
-        if($type != 'agents' && $type != 'mvp' && $current->paint != 'ct' && $current->paint != 't' && $selectedpaint != 'default') {
+		if($type != 'agents' && $type != 'mvp' && isset($current->paint) && $current->paint != 'ct' && $current->paint != 't' && $selectedpaint != 'default') {
         if($selectedpaint != 0 && $type != 'knifes' || $type == 'knifes') {
         ?>
         <div class="input" id="wear">
@@ -482,7 +501,7 @@ if($stickers_loop) {
             <p><?= str_replace('{{name}}', "<strong>$UserInfo->personaname</strong>", $translations->skins->footer->signedin); ?></p>
         </a>
         <div class="credit">
-            <p>This website created by LielXD</p>
+            <p>CSCrew CS2 Skinsite | by firekickfly</p>
         </div>
         <div class="actions">
             <div class="settings">

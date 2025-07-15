@@ -69,6 +69,13 @@ document.addEventListener('click', function (e) {
             }
             window.location += mvpid;
             break;
+        case 'custom_mvp_change':
+            let customId = e.target.getAttribute('data-id');
+            if(!window.location.href.endsWith('/')) {
+                customId = '/' + customId;
+            }
+            window.location += customId;
+            break;
         case 'category':
             if (e.target.classList.contains('selected')) {
                 SendFormPost([

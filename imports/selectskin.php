@@ -143,6 +143,11 @@ switch($selectedweapon_type) {
         }
 
         break;
+    case 'custom_mvp':
+        $weapon_info["img"] = [];
+        $weapon_info["name"] = $custom_songs[0]->name;
+        $weapon_info["img"][] = $custom_songs[0]->image;
+        break;
     case 'agents':
         $state = $pdo->prepare("SELECT * FROM `wp_player_agents` WHERE `steamid` = ?");
         $state->execute([$_SESSION['steamid']]);
@@ -342,6 +347,20 @@ switch($selectedweapon_type) {
                             <?php
                         }
                         break;
+                    case 'custom_mvp':
+                        foreach($custom_songs as $song) {
+                            ?>
+                            <li>
+                                <button class='card' data-action='custom_mvp_change' data-id='<?= $song->id; ?>'>
+                                    <div class="imgbox">
+                                        <img src='<?= $song->image; ?>' alt='<?= $song->id; ?>' loading='lazy'>
+                                    </div>
+                                    <span><?= $song->name; ?></span>
+                                </button>
+                            </li>
+                            <?php
+                        }
+                        break;
                     case 'agents':
                         foreach($agents as $agent) {
                             if($selectedweapon == 'terrorist' && $agent->team != 2 || $selectedweapon == 'counter-terrorist' && $agent->team != 3) {continue;}
@@ -417,7 +436,7 @@ switch($selectedweapon_type) {
             <p><?= str_replace('{{name}}', "<strong>$UserInfo->personaname</strong>", $translations->skins->footer->signedin); ?></p>
         </a>
         <div class="credit">
-            <p>This website created by LielXD</p>
+            <p>CSCrew CS2 Skinsite | by firekickfly</p>
         </div>
         <div class="actions">
             <div class="settings">

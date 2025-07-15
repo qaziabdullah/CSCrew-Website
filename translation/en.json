@@ -1,21 +1,21 @@
 {
-    "website_name": "LielXD CS2 Server",
+    "website_name": "CSCrew SkinSite",
     "invert_direction": false,
     "error": {
         "code": "There was an error {{code}}!",
         "message": "something happened.",
         "unauthorized": "You don't have permission to be in here.",
-        "notfound": "The requested page have not found on this server.",
+        "notfound": "The requested page is not found on this server.",
         "serverinternal": "The server encountered an unexpected condition that prevented it from fulfilling the request.",
         "button": "Return to Website"
     },
     "login": {
         "header": "Counter Strike 2 Server - Connect now:",
         "titles": [
-            {"name": "CS2.LIELXD.COM", "hover": "Connect to Retake Server", "link": "steam://connect/34.165.48.66:27015?appid=730"},
-            {"name": "CS2.LIELXD.COM", "hover": "Connect to Surf Server", "link": "steam://connect/34.165.48.66:27016?appid=730"}
+            {"name": "CSCrew", "hover": "Connect to CSCrew Server", "link": "https://steamcommunity.com/chat/invite/IrpsMd6D"},
+            {"name": "CSCrew", "hover": "Connect to CSCrew Server", "link": "https://steamcommunity.com/chat/invite/IrpsMd6D"}
         ],
-        "footer": "please login through steam to continue.",
+        "footer": "please login with steam to continue.",
         "button": "Login with steam"
     },
     "skins": {
@@ -35,7 +35,8 @@
                 "ct": "Counter Terrorist",
                 "t": "Terrorist"
             },
-            "mvp": "Music Kits"
+            "mvp": "Music Kits",
+            "custom_mvp": "Custom MVP Music"
         },
         "selected_weapon": {
             "weapon_selected_label": "Selected weapon",

@@ -119,6 +119,19 @@ switch($_POST['type']) {
             $state->execute([$_SESSION['steamid'], $_POST['team'], $_POST['index']]);
         }
         break;
+	case 'custom_mvp':
+		$state = $pdo->prepare("SELECT * FROM `PersonData` WHERE `PlayerSteamID` = ?");
+		$state->execute([$_SESSION['steamid']]);
+		$exists = $state->fetch();
+
+		if($exists) {
+			$state = $pdo->prepare("UPDATE `PersonData` SET `MusicKit` = ? WHERE `PlayerSteamID` = ?");
+			$state->execute(['MVP_' . $_POST['index'], $_SESSION['steamid']]);
+		} else {
+			$state = $pdo->prepare("INSERT INTO `PersonData`(`PlayerSteamID`, `MusicKit`) VALUES(?, ?)");
+			$state->execute([$_SESSION['steamid'], 'MVP_' . $_POST['index']]);
+		}
+		break;
     default:
         if($_POST['type'] == 'knifes') {
             $state = $pdo->prepare("SELECT * FROM `wp_player_knife` WHERE `steamid` = ? AND `weapon_team` = ?");

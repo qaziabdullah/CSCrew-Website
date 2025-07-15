@@ -6,6 +6,7 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { RGBELoader } from 'three/addons/loaders/RGBELoader.js';
+import { DecalGeometry } from 'three/addons/geometries/DecalGeometry.js';
 import WebGL from 'three/addons/capabilities/WebGL.js';
 
 let scene, renderer, controls, camera;
@@ -279,6 +280,11 @@ document.addEventListener('click', async function(e) {
                     stickers.children[viewlistpos-1].dataset.id = id;
                     stickers.children[viewlistpos-1].title = choosen.name;
                     stickers.children[viewlistpos-1].innerHTML = `<img src="${choosen.image}">`;
+
+                    // Sticker Apply 3D
+                    if(usethreejs) {
+                        // Apply decals
+                    }
                 }else {
                     stickers.children[viewlistpos-1].removeAttribute('data-id');
                     stickers.children[viewlistpos-1].removeAttribute('title');

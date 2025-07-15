@@ -1723,40 +1723,55 @@
     "weapon_name": "weapon_glock",
     "paint": "1119",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-1119.png",
-    "paint_name": "Glock-18 | Gamma Doppler",
-    "legacy_model": true
+    "paint_name": "Glock-18 | Gamma Doppler (Emerald)",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_glock.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1119.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/doppler_metal.webp"
   },
   {
     "weapon_defindex": 4,
     "weapon_name": "weapon_glock",
     "paint": "1120",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-1120.png",
-    "paint_name": "Glock-18 | Gamma Doppler",
-    "legacy_model": true
+    "paint_name": "Glock-18 | Gamma Doppler (Phase 1)",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_glock.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1120.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/doppler_metal.webp"
   },
   {
     "weapon_defindex": 4,
     "weapon_name": "weapon_glock",
     "paint": "1121",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-1121.png",
-    "paint_name": "Glock-18 | Gamma Doppler",
-    "legacy_model": true
+    "paint_name": "Glock-18 | Gamma Doppler (Phase 2)",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_glock.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1121.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/doppler_metal.webp"
   },
   {
     "weapon_defindex": 4,
     "weapon_name": "weapon_glock",
     "paint": "1122",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-1122.png",
-    "paint_name": "Glock-18 | Gamma Doppler",
-    "legacy_model": true
+    "paint_name": "Glock-18 | Gamma Doppler (Phase 3)",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_glock.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1122.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/doppler_metal.webp"
   },
   {
     "weapon_defindex": 4,
     "weapon_name": "weapon_glock",
     "paint": "1123",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-1123.png",
-    "paint_name": "Glock-18 | Gamma Doppler",
-    "legacy_model": true
+    "paint_name": "Glock-18 | Gamma Doppler (Phase 4)",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_glock.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1123.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/doppler_metal.webp"
   },
   {
     "weapon_defindex": 4,
@@ -14016,31 +14031,40 @@
     "weapon_name": "weapon_bayonet",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-415.png",
-    "paint_name": "★ Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/415_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-416.png",
-    "paint_name": "★ Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/416_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-417.png",
-    "paint_name": "★ Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/417_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-418.png",
-    "paint_name": "★ Bayonet | Doppler",
+    "paint_name": "★ Bayonet | Doppler (Phase 1)",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
     "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/418.webp",
@@ -14051,24 +14075,33 @@
     "weapon_name": "weapon_bayonet",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-419.png",
-    "paint_name": "★ Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/419_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-420.png",
-    "paint_name": "★ Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/420_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-421.png",
-    "paint_name": "★ Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/421_metal.webp"
   },
   {
     "weapon_defindex": 500,
@@ -14097,43 +14130,55 @@
     "weapon_name": "weapon_bayonet",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-568.png",
-    "paint_name": "★ Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/568_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-569.png",
-    "paint_name": "★ Bayonet | Gamma Doppler",
+    "paint_name": "★ Bayonet | Gamma Doppler (Phase 1)",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
-    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/569.png",
-    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/569_metal.png"
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/569_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-570.png",
-    "paint_name": "★ Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/570_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-571.png",
-    "paint_name": "★ Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/571_metal.webp"
   },
   {
     "weapon_defindex": 500,
     "weapon_name": "weapon_bayonet",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet-572.png",
-    "paint_name": "★ Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bayonet | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_bayonet/572_metal.webp"
   },
   {
     "weapon_defindex": 500,
@@ -14510,56 +14555,77 @@
     "weapon_name": "weapon_knife_flip",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-415.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/415.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/415_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-416.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/416.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/416_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-417.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/417.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/417_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-418.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/418.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/418_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-419.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/419.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/419_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-420.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/420.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/420_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-421.png",
-    "paint_name": "★ Flip Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/421.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/421_metal.png"
   },
   {
     "weapon_defindex": 505,
@@ -14588,40 +14654,55 @@
     "weapon_name": "weapon_knife_flip",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-568.png",
-    "paint_name": "★ Flip Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/568.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/568_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-569.png",
-    "paint_name": "★ Flip Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/569.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/569_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-570.png",
-    "paint_name": "★ Flip Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/570.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/570_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-571.png",
-    "paint_name": "★ Flip Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/571.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/571_metal.png"
   },
   {
     "weapon_defindex": 505,
     "weapon_name": "weapon_knife_flip",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip-572.png",
-    "paint_name": "★ Flip Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Flip Knife | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_flip.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/572.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_flip/572_metal.png"
   },
   {
     "weapon_defindex": 505,
@@ -14857,56 +14938,77 @@
     "weapon_name": "weapon_knife_gut",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-415.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/415_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-416.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/416_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-417.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/417_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-418.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/418_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-419.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/419_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-420.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/420_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-421.png",
-    "paint_name": "★ Gut Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/421_metal.webp"
   },
   {
     "weapon_defindex": 506,
@@ -14935,40 +15037,55 @@
     "weapon_name": "weapon_knife_gut",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-568.png",
-    "paint_name": "★ Gut Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/568_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-569.png",
-    "paint_name": "★ Gut Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/569_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-570.png",
-    "paint_name": "★ Gut Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/570_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-571.png",
-    "paint_name": "★ Gut Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/571_metal.webp"
   },
   {
     "weapon_defindex": 506,
     "weapon_name": "weapon_knife_gut",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut-572.png",
-    "paint_name": "★ Gut Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Gut Knife | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gut.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gut/572_metal.webp"
   },
   {
     "weapon_defindex": 506,
@@ -15204,56 +15321,77 @@
     "weapon_name": "weapon_knife_karambit",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-415.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-416.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-417.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-418.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-419.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-420.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-421.png",
-    "paint_name": "★ Karambit | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
@@ -15282,40 +15420,55 @@
     "weapon_name": "weapon_knife_karambit",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-568.png",
-    "paint_name": "★ Karambit | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-569.png",
-    "paint_name": "★ Karambit | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-570.png",
-    "paint_name": "★ Karambit | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-571.png",
-    "paint_name": "★ Karambit | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
     "weapon_name": "weapon_knife_karambit",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit-572.png",
-    "paint_name": "★ Karambit | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Karambit | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_karambit.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_karambit/doppler_metal.webp"
   },
   {
     "weapon_defindex": 507,
@@ -15551,56 +15704,77 @@
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-415.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-416.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-417.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-418.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-419.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-420.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-421.png",
-    "paint_name": "★ M9 Bayonet | Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
@@ -15629,40 +15803,55 @@
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-568.png",
-    "paint_name": "★ M9 Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-569.png",
-    "paint_name": "★ M9 Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-570.png",
-    "paint_name": "★ M9 Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-571.png",
-    "paint_name": "★ M9 Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
     "weapon_name": "weapon_knife_m9_bayonet",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet-572.png",
-    "paint_name": "★ M9 Bayonet | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ M9 Bayonet | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_m9_bayonet.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_m9_bayonet/doppler_metal.webp"
   },
   {
     "weapon_defindex": 508,
@@ -15887,96 +16076,132 @@
     "weapon_name": "weapon_knife_tactical",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-415.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-416.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-417.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-418.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-419.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-420.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-421.png",
-    "paint_name": "★ Huntsman Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-568.png",
-    "paint_name": "★ Huntsman Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-569.png",
-    "paint_name": "★ Huntsman Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-570.png",
-    "paint_name": "★ Huntsman Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-571.png",
-    "paint_name": "★ Huntsman Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
     "weapon_name": "weapon_knife_tactical",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical-572.png",
-    "paint_name": "★ Huntsman Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Huntsman Knife | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_tactical.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_tactical/doppler_metal.webp"
   },
   {
     "weapon_defindex": 509,
@@ -16234,96 +16459,132 @@
     "weapon_name": "weapon_knife_falchion",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-415.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-416.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-417.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-418.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-419.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-420.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-421.png",
-    "paint_name": "★ Falchion Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-568.png",
-    "paint_name": "★ Falchion Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-569.png",
-    "paint_name": "★ Falchion Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-570.png",
-    "paint_name": "★ Falchion Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-571.png",
-    "paint_name": "★ Falchion Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
     "weapon_name": "weapon_knife_falchion",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion-572.png",
-    "paint_name": "★ Falchion Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Falchion Knife | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_falchion.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_falchion/doppler_metal.webp"
   },
   {
     "weapon_defindex": 512,
@@ -16592,96 +16853,132 @@
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-415.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-416.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-417.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-418.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-419.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-420.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-421.png",
-    "paint_name": "★ Bowie Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-568.png",
-    "paint_name": "★ Bowie Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-569.png",
-    "paint_name": "★ Bowie Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-570.png",
-    "paint_name": "★ Bowie Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-571.png",
-    "paint_name": "★ Bowie Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
     "weapon_name": "weapon_knife_survival_bowie",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie-572.png",
-    "paint_name": "★ Bowie Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Bowie Knife | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_survival_bowie.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_survival_bowie/doppler_metal.webp"
   },
   {
     "weapon_defindex": 514,
@@ -16939,72 +17236,99 @@
     "weapon_name": "weapon_knife_butterfly",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-415.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-418.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-420.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-421.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-568.png",
-    "paint_name": "★ Butterfly Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-569.png",
-    "paint_name": "★ Butterfly Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-570.png",
-    "paint_name": "★ Butterfly Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-571.png",
-    "paint_name": "★ Butterfly Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-572.png",
-    "paint_name": "★ Butterfly Knife | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
@@ -17033,24 +17357,33 @@
     "weapon_name": "weapon_knife_butterfly",
     "paint": "617",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-617.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/617.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "618",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-618.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/618.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
     "weapon_name": "weapon_knife_butterfly",
     "paint": "619",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly-619.png",
-    "paint_name": "★ Butterfly Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Butterfly Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_butterfly.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/619.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_butterfly/doppler_metal.webp"
   },
   {
     "weapon_defindex": 515,
@@ -17286,72 +17619,99 @@
     "weapon_name": "weapon_knife_push",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-415.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-418.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-420.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-421.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "568",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-568.png",
-    "paint_name": "★ Shadow Daggers | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Gamma Doppler (Emerald)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/568.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "569",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-569.png",
-    "paint_name": "★ Shadow Daggers | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Gamma Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/569.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "570",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-570.png",
-    "paint_name": "★ Shadow Daggers | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Gamma Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/570.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "571",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-571.png",
-    "paint_name": "★ Shadow Daggers | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Gamma Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/571.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "572",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-572.png",
-    "paint_name": "★ Shadow Daggers | Gamma Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Gamma Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/572.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
@@ -17380,24 +17740,33 @@
     "weapon_name": "weapon_knife_push",
     "paint": "617",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-617.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/617.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "618",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-618.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/618.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
     "weapon_name": "weapon_knife_push",
     "paint": "619",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push-619.png",
-    "paint_name": "★ Shadow Daggers | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Shadow Daggers | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_push.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/619.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_push/doppler_metal.webp"
   },
   {
     "weapon_defindex": 516,
@@ -17893,56 +18262,77 @@
     "weapon_name": "weapon_knife_ursus",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-415.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
     "weapon_name": "weapon_knife_ursus",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-416.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
     "weapon_name": "weapon_knife_ursus",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-417.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
     "weapon_name": "weapon_knife_ursus",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-418.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
     "weapon_name": "weapon_knife_ursus",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-419.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
     "weapon_name": "weapon_knife_ursus",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-420.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
     "weapon_name": "weapon_knife_ursus",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus-421.png",
-    "paint_name": "★ Ursus Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Ursus Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_ursus.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_ursus/doppler_metal.webp"
   },
   {
     "weapon_defindex": 519,
@@ -18145,56 +18535,77 @@
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-415.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-416.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-417.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-418.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-419.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-420.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
     "weapon_name": "weapon_knife_gypsy_jackknife",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife-421.png",
-    "paint_name": "★ Navaja Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Navaja Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_gypsy_jackknife.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_gypsy_jackknife/doppler_metal.webp"
   },
   {
     "weapon_defindex": 520,
@@ -18538,56 +18949,77 @@
     "weapon_name": "weapon_knife_stiletto",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-415.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
     "weapon_name": "weapon_knife_stiletto",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-416.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
     "weapon_name": "weapon_knife_stiletto",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-417.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
     "weapon_name": "weapon_knife_stiletto",
     "paint": "418",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-418.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/418.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
     "weapon_name": "weapon_knife_stiletto",
     "paint": "419",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-419.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/419.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
     "weapon_name": "weapon_knife_stiletto",
     "paint": "420",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-420.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/420.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
     "weapon_name": "weapon_knife_stiletto",
     "paint": "421",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto-421.png",
-    "paint_name": "★ Stiletto Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Stiletto Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_stiletto.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/421.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_stiletto/doppler_metal.webp"
   },
   {
     "weapon_defindex": 522,
@@ -18779,24 +19211,33 @@
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "415",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-415.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Ruby)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/415.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "416",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-416.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Sapphire)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/416.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "417",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-417.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Black pearl)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/417.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,
@@ -18814,32 +19255,44 @@
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "852",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-852.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Phase 1)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/852.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "853",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-853.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Phase 2)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/853.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "854",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-854.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Phase 3)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/854.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,
     "weapon_name": "weapon_knife_widowmaker",
     "paint": "855",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker-855.png",
-    "paint_name": "★ Talon Knife | Doppler",
-    "legacy_model": false
+    "paint_name": "★ Talon Knife | Doppler (Phase 4)",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_widowmaker.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/855.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_widowmaker/doppler_metal.webp"
   },
   {
     "weapon_defindex": 523,

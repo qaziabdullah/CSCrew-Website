@@ -454,6 +454,14 @@ if($Website_UseCategories) {
                             </div>
                         </button>
                     </li>
+                    <li>
+                        <button class="card" data-action="weapon_picked" data-weapon="custom_mvp">
+                            <div class="imgbox">
+                                <img src="/src/musickits/default.png" loading="lazy">
+                            </div>
+                            <span><?= $translations->skins->categories->custom_mvp; ?></span>
+                        </button>
+                    </li>
                     <?php
                 }else {
                     ?>
@@ -463,6 +471,14 @@ if($Website_UseCategories) {
                                 <img src="<?= $songs[0]->image; ?>" loading='lazy'>
                             </div>
                             <span><?= $translations->skins->categories->mvp; ?></span>
+                        </button>
+                    </li>
+                    <li>
+                        <button class="card" data-action="weapon_picked" data-weapon="custom_mvp">
+                            <div class="imgbox">
+                                <img src="/src/musickits/default.png" loading="lazy">
+                            </div>
+                            <span><?= $translations->skins->categories->custom_mvp; ?></span>
                         </button>
                     </li>
                     <?php
@@ -482,7 +498,7 @@ if($Website_UseCategories) {
             <p><?= str_replace('{{name}}', "<strong>$UserInfo->personaname</strong>", $translations->skins->footer->signedin); ?></p>
         </a>
         <div class="credit">
-            <p>This website created by LielXD</p>
+            <p>CSCrew CS2 Skinsite | by firekickfly</p>
         </div>
         <div class="actions">
             <div class="settings">

@@ -37,6 +37,7 @@ $agents = json_decode(file_get_contents('src/data/agents.json'));
 $songs = json_decode(file_get_contents('src/data/music.json'));
 $stickers = json_decode(file_get_contents('src/data/stickers.json'));
 $keychains = json_decode(file_get_contents('src/data/keychains.json'));
+$custom_songs = json_decode(file_get_contents('src/data/custom_mvp.json'));
 
 /**************/
 /* Categories */
@@ -106,7 +107,7 @@ $weapon_types = [
     'weapon_awp' => 'sniper_rifles',
     'weapon_scar20' => 'sniper_rifles',
     'weapon_g3sg1' => 'sniper_rifles',
-    
+
     // Shotguns
     'weapon_mag7' => 'shotguns',
     'weapon_nova' => 'shotguns',
@@ -115,14 +116,7 @@ $weapon_types = [
 ];
 
 $gloves_models = [
-    4725,
-    5027,
-    5030,
-    5031,
-    5032,
-    5033,
-    5034,
-    5035,
+    4725, 5027, 5030, 5031, 5032, 5033, 5034, 5035,
     'gloves_default'
 ];
 
@@ -136,6 +130,8 @@ function GetWeaponType($weapon_name) {
         return 'gloves';
     }elseif($weapon_name == 'mvp') {
         return 'mvp';
+    }elseif($weapon_name == 'custom_mvp') {
+        return 'custom_mvp';
     }else if($weapon_name == 'counter-terrorist' || $weapon_name == 'terrorist') {
         return 'agents';
     }else {
@@ -147,33 +143,23 @@ $ct_only = [];
 $t_only = [];
 if($Website_TeamOnlyWeapons) {
     $ct_only = [
-        'weapon_m4a1',
-        'weapon_m4a1_silencer',
-        'weapon_usp_silencer',
-        'weapon_aug',
-        'weapon_fiveseven',
-        'weapon_famas',
-        'weapon_scar20',
-        'weapon_mp9'
+        'weapon_m4a1', 'weapon_m4a1_silencer', 'weapon_usp_silencer',
+        'weapon_aug', 'weapon_fiveseven', 'weapon_famas',
+        'weapon_scar20', 'weapon_mp9'
     ];
-    
+
     $t_only = [
-        'weapon_ak47',
-        'weapon_galilar',
-        'weapon_glock',
-        'weapon_sg556',
-        'weapon_elite',
-        'weapon_g3sg1',
-        'weapon_mac10',
-        'weapon_tec9'
+        'weapon_ak47', 'weapon_galilar', 'weapon_glock',
+        'weapon_sg556', 'weapon_elite', 'weapon_g3sg1',
+        'weapon_mac10', 'weapon_tec9'
     ];
 }
 
 if(!Path(1)) {
     include_once 'imports/selectweapon.php';
-}else if(Path(2)) {
+} else if(Path(2)) {
     include_once 'imports/viewskin.php';
-}else if(Path(1)) {
+} else if(Path(1)) {
     include_once 'imports/selectskin.php';
 }
 ?>
