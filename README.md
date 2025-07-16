@@ -1,5 +1,5 @@
 # CS2 WeaponPaints Website with modifications for CSCrew.
-# Support Palestine <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine Flag" width="20" style="vertical-align: middle;">
+# Support Palestine <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine Flag" width="60" style="vertical-align: middle;">
 
 The website is forked with some changes required for CSCrew server. Mainly added support for custom MVP music based on GoldKingZ's plugin.
 
