@@ -1,4 +1,5 @@
 # CS2 WeaponPaints Website with modifications for CSCrew.
+# Support Palestine 🇵🇸
 The website is forked with some changes required for CSCrew server. Mainly added support for custom MVP music based on GoldKingZ's plugin.
 
 ### If you are someone affiliated with CSCrew or the maintainer of this repo, you know how to deploy already.
