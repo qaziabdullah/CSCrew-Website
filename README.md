@@ -5,10 +5,17 @@ The website is forked with some changes required for CSCrew server. Mainly added
 
 ### If you are someone affiliated with CSCrew or the maintainer of this repo, you know how to deploy already.
 
+## Custom Additions
+* Custom MVP Music selection
+* Rank list based on cs2-simpleranks
+* Minor adjustments
+
+
+
 ## Requirements
-*CS Server
-*Hosting
-*Database
+* CS Server
+* Hosting
+* Database
 
 
 ## Updates
