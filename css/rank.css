@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(45deg, black, var(--main-color));
+    color: white;
+    min-height: 100vh;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(10px);
+}
+
+th, td {
+    border: 1px solid rgba(255,255,255,0.2);
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background: rgba(0,0,0,0.5);
+}

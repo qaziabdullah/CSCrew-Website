@@ -82,5 +82,20 @@
                 }
             }
         }
+    },
+    "ranks": {
+        "button": "Ranks",
+        "title": "Player Rankings",
+        "columns": {
+            "name": "Player Name",
+            "value": "Rating",
+            "rank": "Rank",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "headshots": "Headshots",
+            "assists": "Assists",
+            "round_win": "Rounds Won",
+            "round_lose": "Rounds Lost"
+        }
     }
 }

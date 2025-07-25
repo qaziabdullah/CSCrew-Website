@@ -11,6 +11,17 @@
   {
     "weapon_defindex": 1,
     "weapon_name": "weapon_deagle",
+    "paint": "1189",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_deagle-1189.png",
+    "paint_name": "Desert Eagle | Serpent Strike",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_deagle.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_deagle/1189.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_deagle/1189_metal.webp"
+  },
+  {
+    "weapon_defindex": 1,
+    "weapon_name": "weapon_deagle",
     "paint": "17",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_deagle-17.png",
     "paint_name": "Desert Eagle | Urban DDPAT",
@@ -1281,6 +1292,17 @@
   {
     "weapon_defindex": 4,
     "weapon_name": "weapon_glock",
+    "paint": "1208",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-1208.png",
+    "paint_name": "Glock-18 | Shinobu",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_glock.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1208.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_glock/1208_metal.webp"
+  },
+  {
+    "weapon_defindex": 4,
+    "weapon_name": "weapon_glock",
     "paint": "2",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock-2.png",
     "paint_name": "Glock-18 | Groundwater",
@@ -1825,6 +1847,17 @@
     "paint_name": "AK-47 | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_ak47.glb"
+  },
+  {
+    "weapon_defindex": 7,
+    "weapon_name": "weapon_ak47",
+    "paint": "1207",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ak47-1207.png",
+    "paint_name": "AK-47 | Searing Rage",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_ak47.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_ak47/1207.png",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_ak47/1207_metal.png"
   },
   {
     "weapon_defindex": 7,
@@ -2958,6 +2991,17 @@
   {
     "weapon_defindex": 9,
     "weapon_name": "weapon_awp",
+    "paint": "1206",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_awp-1206.png",
+    "paint_name": "AWP | Printstream",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_awp.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_awp/1206.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_awp/1206_metal.webp"
+  },
+  {
+    "weapon_defindex": 9,
+    "weapon_name": "weapon_awp",
     "paint": "259",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_awp-259.png",
     "paint_name": "AWP | Redline",
@@ -3326,6 +3370,17 @@
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_famas.glb",
     "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_famas/47.png",
     "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_famas/47_metal.png"
+  },
+  {
+    "weapon_defindex": 10,
+    "weapon_name": "weapon_famas",
+    "paint": "1184",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_famas-1184.png",
+    "paint_name": "FAMAS | Bad Trip",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_famas.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_famas/1184.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_famas/1184_metal.webp"
   },
   {
     "weapon_defindex": 10,
@@ -4019,6 +4074,17 @@
   {
     "weapon_defindex": 13,
     "weapon_name": "weapon_galilar",
+    "paint": "1185",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_galilar-1185.png",
+    "paint_name": "Galil AR | Control",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_galilar.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_galilar/1185.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_galilar/1185_metal.webp"
+  },
+  {
+    "weapon_defindex": 13,
+    "weapon_name": "weapon_galilar",
     "paint": "76",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_galilar-76.png",
     "paint_name": "Galil AR | Winter Forest",
@@ -4682,6 +4748,17 @@
     "paint_name": "M4A4 | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_m4a1.glb"
+  },
+  {
+    "weapon_defindex": 16,
+    "weapon_name": "weapon_m4a1",
+    "paint": "1210",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_m4a1-1210.png",
+    "paint_name": "M4A4 | Choppa",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_m4a1.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_m4a1/1210.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_m4a1/1210_metal.webp"
   },
   {
     "weapon_defindex": 16,
@@ -5694,6 +5771,17 @@
   {
     "weapon_defindex": 19,
     "weapon_name": "weapon_p90",
+    "paint": "1190",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_p90-1190.png",
+    "paint_name": "P90 | Wave Breaker",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_p90.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_p90/1190.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_p90/1190_metal.webp"
+  },
+  {
+    "weapon_defindex": 19,
+    "weapon_name": "weapon_p90",
     "paint": "20",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_p90-20.png",
     "paint_name": "P90 | Virus",
@@ -6405,6 +6493,17 @@
   {
     "weapon_defindex": 24,
     "weapon_name": "weapon_ump45",
+    "paint": "1194",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ump45-1194.png",
+    "paint_name": "UMP-45 | K.O. Factory",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_ump45.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_ump45/1194.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_ump45/1194_metal.webp"
+  },
+  {
+    "weapon_defindex": 24,
+    "weapon_name": "weapon_ump45",
     "paint": "15",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ump45-15.png",
     "paint_name": "UMP-45 | Gunsmoke",
@@ -6839,6 +6938,17 @@
     "paint_name": "XM1014 | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_xm1014.glb"
+  },
+  {
+    "weapon_defindex": 25,
+    "weapon_name": "weapon_xm1014",
+    "paint": "1182",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_xm1014-1182.png",
+    "paint_name": "XM1014 | Mockingbird",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_xm1014.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_xm1014/1182.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_xm1014/1182_metal.webp"
   },
   {
     "weapon_defindex": 25,
@@ -7638,6 +7748,17 @@
     "paint_name": "MAG-7 | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_mag7.glb"
+  },
+  {
+    "weapon_defindex": 27,
+    "weapon_name": "weapon_mag7",
+    "paint": "1188",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mag7-1188.png",
+    "paint_name": "MAG-7 | Resupply",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_mag7.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_mag7/1188.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_mag7/1188_metal.webp"
   },
   {
     "weapon_defindex": 27,
@@ -9117,6 +9238,17 @@
     "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_taser/1172_metal.png"
   },
   {
+    "weapon_defindex": 31,
+    "weapon_name": "weapon_taser",
+    "paint": "1183",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_taser-1183.png",
+    "paint_name": "Zeus x27 | Tosai",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_taser.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_taser/1183.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_taser/1183_metal.webp"
+  },
+  {
     "weapon_defindex": 32,
     "weapon_name": "weapon_hkp2000",
     "paint": 0,
@@ -9124,6 +9256,17 @@
     "paint_name": "P2000 | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_hkp2000.glb"
+  },
+  {
+    "weapon_defindex": 32,
+    "weapon_name": "weapon_hkp2000",
+    "paint": "1181",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_hkp2000-1181.png",
+    "paint_name": "P2000 | Sure Grip",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_hkp2000.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_hkp2000/1181.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_hkp2000/1181_metal.webp"
   },
   {
     "weapon_defindex": 32,
@@ -9872,6 +10015,17 @@
   {
     "weapon_defindex": 34,
     "weapon_name": "weapon_mp9",
+    "paint": "1193",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mp9-1193.png",
+    "paint_name": "MP9 | Nexus",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_mp9.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_mp9/1193.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_mp9/1193_metal.webp"
+  },
+  {
+    "weapon_defindex": 34,
+    "weapon_name": "weapon_mp9",
     "paint": "33",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mp9-33.png",
     "paint_name": "MP9 | Hot Rod",
@@ -10251,6 +10405,17 @@
     "paint_name": "Nova | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_nova.glb"
+  },
+  {
+    "weapon_defindex": 35,
+    "weapon_name": "weapon_nova",
+    "paint": "1192",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_nova-1192.png",
+    "paint_name": "Nova | Rising Sun",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_nova.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_nova/1192.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_nova/1192_metal.webp"
   },
   {
     "weapon_defindex": 35,
@@ -11952,6 +12117,17 @@
   {
     "weapon_defindex": 40,
     "weapon_name": "weapon_ssg08",
+    "paint": "1187",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ssg08-1187.png",
+    "paint_name": "SSG 08 | Memorial",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_ssg08.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_ssg08/1187.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_ssg08/1187_metal.webp"
+  },
+  {
+    "weapon_defindex": 40,
+    "weapon_name": "weapon_ssg08",
     "paint": "26",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ssg08-26.png",
     "paint_name": "SSG 08 | Lichen Dashed",
@@ -12780,6 +12956,17 @@
     "paint_name": "USP-S | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_usp_silencer.glb"
+  },
+  {
+    "weapon_defindex": 61,
+    "weapon_name": "weapon_usp_silencer",
+    "paint": "1186",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_usp_silencer-1186.png",
+    "paint_name": "USP-S | PC-GRN",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_usp_silencer.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_usp_silencer/1186.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_usp_silencer/1186_metal.webp"
   },
   {
     "weapon_defindex": 61,
@@ -17813,6 +18000,117 @@
   {
     "weapon_defindex": 517,
     "weapon_name": "weapon_knife_cord",
+    "paint": "417",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-417.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "418",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-418.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "419",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-419.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "420",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-420.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "421",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-421.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "413",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-413.png",
+    "paint_name": "★ Paracord Knife | Marble Fade",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_cord.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/413.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/413_metal.webp"
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "415",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-415.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "416",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-416.png",
+    "paint_name": "★ Paracord Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "409",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-409.png",
+    "paint_name": "★ Paracord Knife | Tiger Tooth",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_cord.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/409.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/409_metal.webp"
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "410",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-410.png",
+    "paint_name": "★ Paracord Knife | Damascus Steel",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_cord.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/410.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/410_metal.webp"
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "414",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-414.png",
+    "paint_name": "★ Paracord Knife | Rust Coat",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_cord.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/414.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/414_metal.webp"
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
+    "paint": "621",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-621.png",
+    "paint_name": "★ Paracord Knife | Ultraviolet",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_cord.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/621.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_cord/621_metal.webp"
+  },
+  {
+    "weapon_defindex": 517,
+    "weapon_name": "weapon_knife_cord",
     "paint": "5",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord-5.png",
     "paint_name": "★ Paracord Knife | Forest DDPAT",
@@ -17950,6 +18248,117 @@
     "paint_name": "★ Survival Knife | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_canis.glb"
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "417",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-417.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "418",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-418.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "419",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-419.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "420",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-420.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "421",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-421.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "413",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-413.png",
+    "paint_name": "★ Survival Knife | Marble Fade",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_canis.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/413.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/413_metal.webp"
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "415",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-415.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "416",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-416.png",
+    "paint_name": "★ Survival Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "409",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-409.png",
+    "paint_name": "★ Survival Knife | Tiger Tooth",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_canis.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/409.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/409_metal.webp"
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "410",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-410.png",
+    "paint_name": "★ Survival Knife | Damascus Steel",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_canis.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/410.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/410_metal.webp"
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "414",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-414.png",
+    "paint_name": "★ Survival Knife | Rust Coat",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_canis.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/414.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/414_metal.webp"
+  },
+  {
+    "weapon_defindex": 518,
+    "weapon_name": "weapon_knife_canis",
+    "paint": "98",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis-98.png",
+    "paint_name": "★ Survival Knife | Ultraviolet",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_canis.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/98.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_canis/98_metal.webp"
   },
   {
     "weapon_defindex": 518,
@@ -18641,6 +19050,117 @@
   {
     "weapon_defindex": 521,
     "weapon_name": "weapon_knife_outdoor",
+    "paint": "417",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-417.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "418",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-418.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "419",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-419.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "420",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-420.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "421",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-421.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "413",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-413.png",
+    "paint_name": "★ Nomad Knife | Marble Fade",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_outdoor.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/413.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/413_metal.webp"
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "415",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-415.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "416",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-416.png",
+    "paint_name": "★ Nomad Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "409",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-409.png",
+    "paint_name": "★ Nomad Knife | Tiger Tooth",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_outdoor.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/409.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/409_metal.webp"
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "410",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-410.png",
+    "paint_name": "★ Nomad Knife | Damascus Steel",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_outdoor.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/410.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/410_metal.webp"
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "414",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-414.png",
+    "paint_name": "★ Nomad Knife | Rust Coat",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_outdoor.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/414.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/414_metal.webp"
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
+    "paint": "98",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-98.png",
+    "paint_name": "★ Nomad Knife | Ultraviolet",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_outdoor.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/98.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_outdoor/98_metal.webp"
+  },
+  {
+    "weapon_defindex": 521,
+    "weapon_name": "weapon_knife_outdoor",
     "paint": "5",
     "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor-5.png",
     "paint_name": "★ Nomad Knife | Forest DDPAT",
@@ -19324,6 +19844,117 @@
     "paint_name": "★ Skeleton Knife | Default",
     "legacy_model": false,
     "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_skeleton.glb"
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "417",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-417.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "418",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-418.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "419",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-419.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "420",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-420.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "421",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-421.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "413",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-413.png",
+    "paint_name": "★ Skeleton Knife | Marble Fade",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_skeleton.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/413.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/413_metal.webp"
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "415",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-415.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "416",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-416.png",
+    "paint_name": "★ Skeleton Knife | Doppler",
+    "legacy_model": false
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "409",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-409.png",
+    "paint_name": "★ Skeleton Knife | Tiger Tooth",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_skeleton.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/409.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/409_metal.webp"
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "410",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-410.png",
+    "paint_name": "★ Skeleton Knife | Damascus Steel",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_skeleton.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/410.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/410_metal.webp"
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "98",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-98.png",
+    "paint_name": "★ Skeleton Knife | Ultraviolet",
+    "legacy_model": false,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_skeleton.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/98.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/98_metal.webp"
+  },
+  {
+    "weapon_defindex": 525,
+    "weapon_name": "weapon_knife_skeleton",
+    "paint": "414",
+    "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton-414.png",
+    "paint_name": "★ Skeleton Knife | Rust Coat",
+    "legacy_model": true,
+    "threejsmodel": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Bmodels%5D/weapon_knife_skeleton.glb",
+    "texture": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/414.webp",
+    "texture_metal": "https://raw.githubusercontent.com/LielXD/CS2-WeaponPaints-Website/refs/heads/main/src/%5Btextures%5D/weapon_knife_skeleton/414_metal.webp"
   },
   {
     "weapon_defindex": 525,

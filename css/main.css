@@ -164,3 +164,32 @@ a:focus-visible {
     80% {opacity: 1;}
     100% {opacity: 0;}
 }
+
+/*
+ * Generic table styling
+ * - collapse borders
+ * - alternating row colors
+ */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th, td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+}
+
+thead {
+    background: var(--main-color);
+    color: white;
+}
+
+tbody tr:nth-child(even) {
+    background: color-mix(in srgb, var(--main-color), white 90%);
+}
+
+tbody tr:nth-child(odd) {
+    background: color-mix(in srgb, white, var(--main-color) 90%);
+}

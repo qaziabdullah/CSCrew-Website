@@ -13,10 +13,9 @@ header {
     z-index: 1;
 }
 header h2 {
-    color: var(--main-color);
+    color: white;
     padding: 5px 10px;
-    background: rgba(255, 255, 255, 0.6);
-    backdrop-filter: blur(20px);
+    background: var(--main-color);
     border-radius: 5px;
     z-index: 1;
 }
