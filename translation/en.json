@@ -89,6 +89,7 @@
         "columns": {
             "name": "Player Name",
             "value": "Rating",
+            "cs_rating": "CS Rating",
             "rank": "Rank",
             "kills": "Kills",
             "deaths": "Deaths",

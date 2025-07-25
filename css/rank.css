@@ -30,3 +30,27 @@ th, td {
 th {
     background: rgba(0,0,0,0.5);
 }
+
+.player-summary {
+    cursor: pointer;
+}
+
+.player-details {
+    display: none;
+}
+
+.player-details.open {
+    display: table-row;
+}
+
+.rank-img {
+    height: 20px;
+}
+
+.badge {
+    display: inline-block;
+    margin: 2px 4px;
+    padding: 2px 6px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 4px;
+}
