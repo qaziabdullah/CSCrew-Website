@@ -59,11 +59,24 @@ $ranks = $state->fetchAll(PDO::FETCH_ASSOC);
         <span id="pageInfo"></span>
         <button id="nextPage">Next &raquo;</button>
     </div>
+    <div id="playerModalOverlay" class="modal-overlay">
+        <div class="player-modal">
+            <button id="modalClose" class="close">&times;</button>
+            <h3 id="modalName"></h3>
+            <div id="modalStats" class="stats-list"></div>
+            <div class="charts">
+                <canvas id="shotsChart"></canvas>
+                <canvas id="killsChart"></canvas>
+                <canvas id="roundsChart"></canvas>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>
 const players = <?= json_encode($ranks); ?>;
 </script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="<?= GetPrefix(); ?>js/ranks.js"></script>
 
 </body>
