@@ -10,6 +10,10 @@ function openModal(player){
     const nameEl = document.getElementById('modalName');
     const statsEl = document.getElementById('modalStats');
 
+    // make sure the modal is visible before creating any charts so Chart.js
+    // can correctly calculate canvas dimensions
+    overlay.classList.add('show');
+
     const kd = player.deaths > 0 ? (player.kills / player.deaths) : player.kills;
     const accuracy = player.shoots > 0 ? (player.hits / player.shoots) * 100 : 0;
     const hsPercent = player.kills > 0 ? (player.headshots / player.kills) * 100 : 0;
@@ -70,7 +74,6 @@ function openModal(player){
         options: {plugins:{legend:{position:'bottom'}}}
     });
 
-    overlay.classList.add('show');
 }
 
 function closeModal(){
@@ -128,7 +131,24 @@ function renderTable(){
 window.addEventListener('DOMContentLoaded', () => {
     document.getElementById('search').addEventListener('input', () => {
         currentPage = 1;
-        renderTable();
+        
+    const modal = document.querySelector('.player-modal');
+    const charts = document.querySelector('.charts');
+
+    if (modal && charts) {
+        modal.style.maxWidth = 'none';
+        modal.style.width = '100%';
+
+        charts.style.display = 'flex';
+        charts.style.flexWrap = 'nowrap';
+        charts.style.justifyContent = 'space-evenly';
+
+        document.querySelectorAll('.charts canvas').forEach(c => {
+            c.style.width = '33%';
+            c.style.height = 'auto';
+        });
+    }
+renderTable();
     });
     document.getElementById('prevPage').addEventListener('click', () => {
         if(currentPage > 1){
