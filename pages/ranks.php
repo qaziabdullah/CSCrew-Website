@@ -18,7 +18,7 @@ if($conn != 1) {
 $state = $pdo->query(
     "SELECT name, value, rank, kills, deaths, headshots, assists, " .
     "shoots, hits, round_win, round_lose, playtime " .
-    "FROM lvl_base ORDER BY rank ASC, value DESC"
+    "FROM lvl_base ORDER BY rank DESC, value DESC"
 );
 $ranks = $state->fetchAll(PDO::FETCH_ASSOC);
 
@@ -40,63 +40,31 @@ $ranks = $state->fetchAll(PDO::FETCH_ASSOC);
         <a class="main-btn" href="<?= GetPrefix(); ?>skins"><?= $translations->ranks->back ?? 'Back'; ?></a>
     </nav>
     <h2><?= $translations->ranks->header ?? 'Player Ranks'; ?></h2>
+    <input type="text" id="search" class="search-input" placeholder="Search player">
     <table>
         <thead>
             <tr>
-                <th><?= $translations->ranks->name ?? 'Name'; ?></th>
-                <th><?= $translations->ranks->value ?? 'Value'; ?></th>
-                <th><?= $translations->ranks->rank ?? 'Rank'; ?></th>
-                <th><?= $translations->ranks->kills ?? 'Kills'; ?></th>
-                <th><?= $translations->ranks->deaths ?? 'Deaths'; ?></th>
-                <th>K/D</th>
+                <th data-column="name" class="sortable"><?= $translations->ranks->name ?? 'Name'; ?></th>
+                <th data-column="value" class="sortable"><?= $translations->ranks->value ?? 'Rating'; ?></th>
+                <th data-column="rank" class="sortable"><?= $translations->ranks->rank ?? 'Rank'; ?></th>
+                <th data-column="kills" class="sortable"><?= $translations->ranks->kills ?? 'Kills'; ?></th>
+                <th data-column="deaths" class="sortable"><?= $translations->ranks->deaths ?? 'Deaths'; ?></th>
+                <th data-column="kd" class="sortable">K/D</th>
             </tr>
         </thead>
-        <tbody>
-        <?php foreach($ranks as $r):
-            $kd = $r['deaths'] > 0 ? $r['kills'] / $r['deaths'] : $r['kills'];
-            $accuracy = $r['shoots'] > 0 ? ($r['hits'] / $r['shoots']) * 100 : 0;
-            $hsPercent = $r['kills'] > 0 ? ($r['headshots'] / $r['kills']) * 100 : 0;
-            $totalRounds = $r['round_win'] + $r['round_lose'];
-            $hoursPlayed = $r['playtime'] / 3600;
-        ?>
-            <tr class="player-summary">
-                <td><?= htmlspecialchars($r['name']); ?></td>
-                <td><?= htmlspecialchars($r['value']); ?></td>
-                <td><img class="rank-img" src="/src/ranks/<?= htmlspecialchars($r['rank']); ?>.png" alt="rank"></td>
-                <td><?= htmlspecialchars($r['kills']); ?></td>
-                <td><?= htmlspecialchars($r['deaths']); ?></td>
-                <td><?= number_format($kd, 2); ?></td>
-            </tr>
-            <tr class="player-details">
-                <td colspan="6">
-                    <div class="details">
-                        <span class="badge">Shots Fired: <?= htmlspecialchars($r['shoots']); ?></span>
-                        <span class="badge">Shots Hit: <?= htmlspecialchars($r['hits']); ?></span>
-                        <span class="badge">Accuracy: <?= number_format($accuracy, 2); ?>%</span>
-                        <span class="badge">Headshots: <?= htmlspecialchars($r['headshots']); ?> (<?= number_format($hsPercent, 2); ?>%)</span>
-                        <span class="badge">Assists: <?= htmlspecialchars($r['assists']); ?></span>
-                        <span class="badge">Rounds Won: <?= htmlspecialchars($r['round_win']); ?></span>
-                        <span class="badge">Rounds Lost: <?= htmlspecialchars($r['round_lose']); ?></span>
-                        <span class="badge">Total Rounds: <?= $totalRounds; ?></span>
-                        <span class="badge">Hours Played: <?= number_format($hoursPlayed, 1); ?></span>
-                    </div>
-                </td>
-            </tr>
-        <?php endforeach; ?>
-        </tbody>
+        <tbody id="rank-body"></tbody>
     </table>
+    <div class="pagination">
+        <button id="prevPage">&laquo; Prev</button>
+        <span id="pageInfo"></span>
+        <button id="nextPage">Next &raquo;</button>
+    </div>
 </div>
 
 <script>
-document.querySelectorAll('.player-summary').forEach(function(row){
-    row.addEventListener('click', function(){
-        var next = row.nextElementSibling;
-        if(next && next.classList.contains('player-details')){
-            next.classList.toggle('open');
-        }
-    });
-});
+const players = <?= json_encode($ranks); ?>;
 </script>
+<script src="<?= GetPrefix(); ?>js/ranks.js"></script>
 
 </body>
 </html>
