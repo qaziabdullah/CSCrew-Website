@@ -76,7 +76,7 @@ $ranks = $state->fetchAll(PDO::FETCH_ASSOC);
 <script>
 const players = <?= json_encode($ranks); ?>;
 </script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="js/chart.js"></script>
 <script src="<?= GetPrefix(); ?>js/ranks.js"></script>
 
 </body>
